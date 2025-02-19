@@ -40,3 +40,11 @@ WHERE NOT Genre = 'Fiction';
 SELECT * FROM Books
 WHERE (Genre = 'Dystopian' OR PublishedYear > 2000) 
 AND NOT Author = 'George Orwell';
+
+use aditya;
+
+
+
+
+
+select * from books;
